@@ -2,7 +2,7 @@ package chapter01
 
 import org.scalatest.FlatSpec
 
-class Exercise4 extends FlatSpec {
+class Ch01Ex04 extends FlatSpec {
   behavior of "multiplication operator on String"
 
   /*

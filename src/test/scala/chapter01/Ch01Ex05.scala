@@ -2,7 +2,7 @@ package chapter01
 
 import org.scalatest.FlatSpec
 
-class Exercise5 extends FlatSpec {
+class Ch01Ex05 extends FlatSpec {
   behavior of "max operator"
 
   /*

@@ -2,7 +2,7 @@ package chapter01
 
 import org.scalatest.FlatSpec
 
-class Exercise1 extends FlatSpec {
+class Ch01Ex01 extends FlatSpec {
   behavior of "3"
 
   it should "be an instance of class int" in {

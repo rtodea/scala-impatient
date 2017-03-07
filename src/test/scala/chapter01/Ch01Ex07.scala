@@ -4,7 +4,7 @@ import org.scalatest.FlatSpec
 import scala.math.BigInt.probablePrime
 import scala.util.Random
 
-class Exercise7 extends FlatSpec {
+class Ch01Ex07 extends FlatSpec {
   behavior of "importing a specific method"
 
   it should "import probablePrime and Random" in {

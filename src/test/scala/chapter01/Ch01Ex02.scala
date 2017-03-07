@@ -3,7 +3,7 @@ package chapter01
 import org.scalatest.FlatSpec
 import scala.math.{pow, sqrt, rint}
 
-class Exercise2 extends FlatSpec {
+class Ch01Ex02 extends FlatSpec {
   behavior of "square root of 3"
 
   it should "be almost equal with 3" in {

@@ -2,7 +2,7 @@ package chapter01
 
 import org.scalatest.FlatSpec
 
-class Exercise6 extends FlatSpec {
+class Ch01Ex06 extends FlatSpec {
   behavior of "BigInt"
 
   it should "compute 2 to the 1024th" in {

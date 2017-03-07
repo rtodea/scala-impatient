@@ -2,7 +2,7 @@ package chapter01
 
 import org.scalatest.FlatSpec
 
-class Exercise3 extends FlatSpec {
+class Ch01Ex03 extends FlatSpec {
   behavior of "res from the REPL"
 
   /*

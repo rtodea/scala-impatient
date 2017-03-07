@@ -2,7 +2,7 @@ package chapter01
 
 import org.scalatest.FlatSpec
 
-class Exercise9 extends FlatSpec {
+class Ch01Ex09 extends FlatSpec {
   /*
     We could also use fixtures via the before-and-after trait
     Read more [here](http://www.scalatest.org/user_guide/sharing_fixtures)
